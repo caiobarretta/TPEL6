@@ -1,0 +1,15 @@
+git add * #Adiciona todos os arquivos alterados
+
+git commit -m"{mensagem}" #Comita logicamente as alterações efetuadas
+
+git push #Mandar alterações efetuadas
+
+git pull #Receber alterações
+
+git status #Verificar o status do repositório
+
+#Para salvar as credenciais:
+git config --global credential.helper store
+
+git pull
+

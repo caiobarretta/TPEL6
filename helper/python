@@ -1,0 +1,7 @@
+pip install virtualenv #Para intalar uma virtualenv em Python utilize
+
+virtualenv nome-da-virtual -p python3 #Uma vez instalada, para criar uma virtualenv basta executar
+
+source path-virtual-env/bin/activate #Ativar ambiente virtual
+
+sudo apt-get install python3-tk #Instalar visualização no ambiente virtual

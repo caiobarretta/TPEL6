@@ -1,0 +1,2 @@
+pip install dash==1.6.1  # The core dash backend
+pip install dash-daq==0.3.1  # DAQ components (newly open-sourced!)
